@@ -1,0 +1,1 @@
+We are learning how to use git to manage our files
